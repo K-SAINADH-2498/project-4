@@ -1,0 +1,23 @@
+.register {
+    border: 5px solid red;
+    background-color: rgba(215, 197, 197,0.5);
+    width: 600px;
+    box-sizing: border-box;
+    font-size: 20px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+.register input[type="submit"] {
+    background-color: #4c54af;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.register input[type="submit"]:hover {
+    background-color: #8e623e;
+}

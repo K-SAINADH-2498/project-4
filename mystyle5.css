@@ -1,0 +1,14 @@
+.container {
+    border: 5px solid red;
+    background-color: rgba(215, 197, 197,0.5);
+    width: 1500px;
+    box-sizing: border-box;
+    font-size: 20px;
+    padding: 20px;
+    margin: 40px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+ul li{
+    display: inline;
+}
